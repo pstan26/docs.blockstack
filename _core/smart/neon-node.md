@@ -6,7 +6,7 @@ permalink: /:collection/:path.html
 # Running a Neon Testnet Node
 {:.no_toc}
 
-"Neon" is phase 1 of the Stacks 2.0 testnet. In Neon, you can run a Stacks node and participate in proof-of-burn mining.
+"Neon" is phase 1 of the Stacks 2.0 testnet. In Neon, you can run a Stacks node and participate in basic proof-of-burn mining (in coming phases you can mine testnet STX with BTC via proof-of-transfer).
 
 * TOC
 {:toc}
